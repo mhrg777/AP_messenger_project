@@ -1,2 +1,4 @@
 # AP_messenger_project
-this is a project messenger app for isfahan university of technology 
+this is a project messenger app for isfahan university of technology.
+written by c++ and using qt for gui 
+
